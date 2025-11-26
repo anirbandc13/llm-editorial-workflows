@@ -9,5 +9,4 @@ The prompts and systems in this repository are designed to work with modern LLMs
 - Editing and clarity-enhancement workflows
 - SERP and keyword analysis frameworks
 - Fact-checking structures
-- JSON-style workflow pipelines
 - Sample outlines for technical topics
